@@ -3,4 +3,6 @@ Soon to be open source library of mechanical parts compatible with the Porsche 9
 
 As I restore my porsche 914 I will be uploading any parts I design here for others to use. I do plan to monetize the models at first to recover my NRE costs but once that is done I will be open sourcing all the models.
 
-If a part has a 2D drawing, that means I have a cad model of it. Once I sell enough of each part to make it worth my time, I will post the CAD models (and continue to sell the part.)
+If a part is listed, that means I have a cad model of it. Once I sell enough of each part to make it worth my time, I will post the CAD models (and continue to sell the part.)
+
+http://www.914world.com/bbs2/index.php?showtopic=373128
